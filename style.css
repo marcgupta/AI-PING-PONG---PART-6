@@ -1,0 +1,112 @@
+body
+{
+
+background-color: #FBF6EB;
+
+}
+
+#design1{
+
+height: 400px;
+position: fixed;
+bottom: 375px;
+left: 1025px;
+
+}
+
+#design2 {
+
+position: fixed;
+right: 1125px;
+bottom: 410px;
+
+}
+
+#design3{
+
+position: fixed;
+left: 1100px;
+top: 350px;
+
+}
+
+#design4 {
+
+position: fixed;
+top: 350px;
+right: 1000px;
+
+}
+ #title {
+
+position: fixed;
+height: 150px;
+left: 375px;
+top: 50px;
+
+ }
+
+ #design5 {
+
+position: fixed;
+left: 300px;
+height: 150px;
+
+ }
+
+ #button {
+
+    height: 75px;
+    width: 175px;
+    background-image: url(https://i.postimg.cc/QMbMHFGM/image.png);
+    border-color: #ffffff00;
+    background-size: 175px;
+    position: fixed;
+    left: 550px;
+    top: 175px;
+    font-family: 'Grandstander', cursive;
+    font-size: 19px;
+    color: #333333;
+
+ }
+ #button2 {
+
+    height: 75px;
+    width: 175px;
+    background-image: url(https://i.postimg.cc/QMbMHFGM/image.png);
+    border-color: #ffffff00;
+    background-size: 175px;
+    position: fixed;
+    left: 550px;
+    top: 230px;
+    font-family: 'Grandstander', cursive;
+    font-size: 19px;
+
+ }
+
+ #button3 {
+
+   height: 75px;
+   width: 175px;
+   background-image: url(https://i.postimg.cc/QMbMHFGM/image.png);
+   border-color: #ffffff00;
+   background-size: 175px;
+   position: fixed;
+   left: 1000px;
+   top: 550px;
+   font-family: 'Grandstander', cursive;
+   font-size: 19px;
+   color: #333333;
+
+}
+
+#rules{
+
+   font-family: 'Grandstander', cursive;
+   font-size: 25px;
+   color: #333333;
+   position: fixed;
+   left: 150px;
+   top: 200px;
+
+}
